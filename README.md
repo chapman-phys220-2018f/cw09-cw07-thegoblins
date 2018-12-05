@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 9
 
-**Author(s):** **Enea Dodi**
+**Author(s):** **Enea Dodi & Ben Seeley**
 
 ## Specification
 
