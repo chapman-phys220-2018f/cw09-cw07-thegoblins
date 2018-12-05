@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 ###
-# Name: Enea DOdi
+# Name: Enea Dodi, Ben Seeley
 # Student ID: 2296306
 # Email: dodi@chapman.edu
 # Course: PHYS220/MATH220/CPSC220 Fall 2018
-# Assignment: c209
+# Assignment: cw09
 ###
 import numpy as np
 import math
