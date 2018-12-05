@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Enea Dodi**
 
 ## Specification
 
@@ -31,7 +31,8 @@ The lowest-order error is second-order in $h$, since the first-order error cance
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+**In the beginning, I wrote all the functions but rather having the diagonals starting at -1 and 1, i had them start on 0 and 2. This 
+gave me completely wrong values! Other then that, everything went pretty smoothly. Again, just like cw08, I looked at big-team's jupyter to see if I had gotten the correct results!**
 
 ## Honor Pledge
 
@@ -42,4 +43,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Enea Dodi
+  Ben Seeley**
